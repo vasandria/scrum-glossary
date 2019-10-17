@@ -7,3 +7,4 @@
 
 - [nzhukov](https://github.com/nzhukov)
 - [nikitaPO](https://github.com/NikitaPO/scrum-glossary)
+- [Sukhacheva](https://github.com/Sukhacheva)
