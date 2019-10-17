@@ -9,3 +9,4 @@
 - [nikitaPO](https://github.com/NikitaPO/scrum-glossary)
 - [Sukhacheva](https://github.com/Sukhacheva)
 - [MarinaSvistunova](https://github.com/MarinaSvistunova)
+- [Dmitry Ivanov](https://github.com/DementedJim)
