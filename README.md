@@ -13,3 +13,4 @@
 - [Serega89Kh](https://github.com/Serega89Kh)
 - [Dmitry Ivanov](https://github.com/DementedJim)
 - [Strijov Egor](https://github.com/strijovegor)
+- [Semenov Leonid](https://github.com/FormedFlow)
