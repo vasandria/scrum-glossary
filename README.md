@@ -15,3 +15,4 @@
 - [Strijov Egor](https://github.com/strijovegor)
 - [Semenov Leonid](https://github.com/FormedFlow)
 - [CrazyKraken](https://github.com/CrazyKraken)
+- [nanashinogonbee](https://github.com/nanashinogonbee)
