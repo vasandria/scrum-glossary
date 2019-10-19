@@ -12,4 +12,7 @@
 - [MarinaSvistunova](https://github.com/MarinaSvistunova)
 - [Serega89Kh](https://github.com/Serega89Kh)
 - [Dmitry Ivanov](https://github.com/DementedJim)
-xx§x§
+- [Strijov Egor](https://github.com/strijovegor)
+- [Semenov Leonid](https://github.com/FormedFlow)
+- [CrazyKraken](https://github.com/CrazyKraken)
+- [nanashinogonbee](https://github.com/nanashinogonbee)
