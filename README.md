@@ -16,3 +16,4 @@
 - [Semenov Leonid](https://github.com/FormedFlow)
 - [CrazyKraken](https://github.com/CrazyKraken)
 - [nanashinogonbee](https://github.com/nanashinogonbee)
+- [TsirulikIvan](https://github.com/TsirulikIvan)
