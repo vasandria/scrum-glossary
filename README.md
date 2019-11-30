@@ -19,3 +19,4 @@
 - [Kozorukov](https://github.com/kosorukov)
 - [Belorukova](https://github.com/Belorukova)
 - [viktoriashandybina](https://github.com/viktoriashandybina)
+- [Plyaskina](https://github.com/Akwatore)
