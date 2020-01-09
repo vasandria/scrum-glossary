@@ -20,3 +20,4 @@
 - [Belorukova](https://github.com/Belorukova)
 - [viktoriashandybina](https://github.com/viktoriashandybina)
 - [Plyaskina](https://github.com/Akwatore)
+- [Marina Krivcun](https://github.com/Meao)
