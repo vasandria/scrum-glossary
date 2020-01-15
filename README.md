@@ -21,3 +21,4 @@
 - [viktoriashandybina](https://github.com/viktoriashandybina)
 - [Plyaskina](https://github.com/Akwatore)
 - [Marina Krivcun](https://github.com/Meao)
+- [vasandria](https://github.com/vasandria)
